@@ -20,3 +20,5 @@ If you wish to contact the author with feedback on this project, you can email m
 ### Using AndroidSVG in your app?
 
 If you have found AndroidSVG useful and are using it in your project, please let me know. I'd love to hear about it!
+
+androidsvg/src/main/java/com/caverock/androidsvg/utils/SVGBase.java
